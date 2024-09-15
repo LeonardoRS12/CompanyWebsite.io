@@ -21,3 +21,11 @@ I also used AI to generate the images of the page.
 I learned more about HTML,CSS and JavaScript making this project.
 
 P.D:Im still working on this project i need to add some features so i will be updating the files of the project.
+
+Features i will add:
+
+-Home page
+
+-Scroll down function
+
+-Products page
